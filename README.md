@@ -18,7 +18,7 @@ The following plot illustrates the training and test accuracy. The data was divi
 
 Additionally, the following plot presents the relative accuracy across the three classes in the testing dataset. The model demonstrates proficient detection of AI-generated images, particularly for Stable Diffusion and DALL-E 2 images. However, there is an approximately 23% occurrence of misclassifying human-generated images as AI-generated images. Considering the primary objective of accurately identifying AI-generated images, this is acceptable.
 
-<img src="https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/02aced8b-947f-4752-8ce3-4fcc536c15eb" width="550" height="550">
+<img src="https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/02aced8b-947f-4752-8ce3-4fcc536c15eb" width="650" height="550">
 
 
 
@@ -35,3 +35,5 @@ Additionally, the following plot presents the relative accuracy across the three
 ### Class 3: Human-made Images
 ![j_animals_3054](https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/57517bce-75ba-4dae-a8c9-7e598edaeec5)       ![pasted image 0](https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/ef18671a-70c6-41db-9474-139cc2a61f48)
 
+
+This project is a collaborative effor among Santiago Miro- https://github.com/SantMiro/ and Karl Yazigi - https://github.com/KarlYazigi
