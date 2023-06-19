@@ -2,4 +2,6 @@
 AI-Generated Image Classification: Automating Recognition of AI-Created Visuals
 
 
-##Image Classification Example
+## Image Classification Example
+
+
