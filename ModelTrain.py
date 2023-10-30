@@ -1,4 +1,4 @@
-
+        
 #Convolutional neural network (CNN) model for image classification trained on a NVIDIA RTX 2060. Code loads the training and #testing data, constructs the CNN model with specific layers and activations, performs training on the GPU, and finally saves #the trained model along with the accuracy results.
 
 import tensorflow as tf
